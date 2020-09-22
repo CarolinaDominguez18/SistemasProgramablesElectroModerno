@@ -1,6 +1,6 @@
 # Sistemas Programables
 
-Este es el repositorio de la materia de Sistemas Progrramables
+Este es el repositorio de la materia de Sistemas Programables
 
 :blue_book: Blog
 -
