@@ -2,14 +2,14 @@
 
 Este es el repositorio de la materia de Sistemas Progrramables
 
-## Contenido C
+:blue_book: Contenido C0
 -
 -
-## Contenido A
+:blue_book: Contenido A0
 -
 -
 
-## Contenido Img
+:blue_book: Contenido Img
 -
 
 ## Identificacion
