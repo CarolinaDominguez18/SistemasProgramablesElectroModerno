@@ -17,6 +17,9 @@ Este es el repositorio de la materia de Sistemas Programables
 - [Simbolos Electronicos del C1.1 Cuestionario](Img/C1.x_SimbolosElectronicos.png)
 
 ## Identificacion
+### Instituto Nacional de Mexico
+#### Instituto Tecnologico de Tijuana
 - Alumno: Carolina Dominguez Cruz.
 - Numero de Control: 18210473.
 - Carrera: Ing en Sistemas Computacionales
+- En la Preparatoria estudie "Tecnico de Soporte y Mantenimiento del Equipo de Computo"
