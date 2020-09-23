@@ -12,6 +12,7 @@ Este es el repositorio de la materia de Sistemas Programables
 -
 
 :blue_book: Contenido Img
+- [Diagrama Pregunta 1.5](Img/Pregunta15.drawio.png)
 -
 
 ## Identificacion
