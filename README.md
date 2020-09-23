@@ -13,8 +13,8 @@ Este es el repositorio de la materia de Sistemas Programables
 -
 
 :blue_book: Contenido Img
-- [Diagrama Pregunta 1.5](Img/Pregunta15.drawio.png)
--
+- [Diagrama Pregunta 1.5 del C0.2 Cuestionario](Img/Pregunta15.drawio.png)
+- [Simbolos Electronicos del C1.1 Cuestionario](Img/C1.x_SimbolosElectronicos.png)
 
 ## Identificacion
 - Alumno: Carolina Dominguez Cruz.
