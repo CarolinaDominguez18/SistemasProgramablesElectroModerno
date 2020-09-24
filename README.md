@@ -8,7 +8,7 @@
 - Clave: SSC-1023 SC7A
 - En la Preparatoria estudie "Tecnico de Soporte y Mantenimiento del Equipo de Computo"
 
-
+## Indice
 :blue_book: Blog
 
 - [C0.1 Integrar equipos de trabajo](Blog/C0.1_Integrar_equipos_de_trabajo.md)
