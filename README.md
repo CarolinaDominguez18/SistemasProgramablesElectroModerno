@@ -1,6 +1,13 @@
-# Sistemas Programables
+## Identificacion
+### Instituto Nacional de Mexico
+#### Instituto Tecnologico de Tijuana
+- Alumno: Carolina Dominguez Cruz.
+- Numero de Control: 18210473.
+- Carrera: Ing en Sistemas Computacionales
+- Materia: Sistemas Programables
+- Clave: SSC-1023 SC7A
+- En la Preparatoria estudie "Tecnico de Soporte y Mantenimiento del Equipo de Computo"
 
-Este es el repositorio de la materia de Sistemas Programables
 
 :blue_book: Blog
 
@@ -16,10 +23,4 @@ Este es el repositorio de la materia de Sistemas Programables
 - [Diagrama Pregunta 1.5 del C0.2 Cuestionario](Img/Pregunta15.drawio.png)
 - [Simbolos Electronicos del C1.1 Cuestionario](Img/C1.x_SimbolosElectronicos.png)
 
-## Identificacion
-### Instituto Nacional de Mexico
-#### Instituto Tecnologico de Tijuana
-- Alumno: Carolina Dominguez Cruz.
-- Numero de Control: 18210473.
-- Carrera: Ing en Sistemas Computacionales
-- En la Preparatoria estudie "Tecnico de Soporte y Mantenimiento del Equipo de Computo"
+
