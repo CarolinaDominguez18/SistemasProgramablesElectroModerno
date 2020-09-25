@@ -17,8 +17,7 @@
 - [C1.2 Circuito electrónico básico ](Blog/C1.2_Circuito_electrónico_básico.md)
 
 :blue_book: Docs
--
--
+-[A1.1 Evaluación de conocimiento basicos de electrónica](Docs/A1.1_Evaluación_de_conocimiento_basicos_de_electrónica.md)
 
 :blue_book: Contenido Img
 - [Diagrama Pregunta 1.5 del C0.2 Cuestionario](Img/Pregunta15.drawio.png)
