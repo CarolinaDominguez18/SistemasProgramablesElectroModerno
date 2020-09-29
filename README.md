@@ -1,4 +1,5 @@
-## Identificacion
+ ![ITT](/Img/itt.png)
+ 
 ### Instituto Nacional de Mexico
 #### Instituto Tecnologico de Tijuana
 - Alumno: Carolina Dominguez Cruz.
@@ -6,7 +7,8 @@
 - Carrera: Ing en Sistemas Computacionales
 - Materia: Sistemas Programables
 - Clave: SSC-1023 SC7A
-- En la Preparatoria estudie "Tecnico de Soporte y Mantenimiento del Equipo de Computo"
+- Maestro: Jaime Leonardo Enriquez Alvarez
+- Equipo: ElectroModerno
 
 ## Indice
 :blue_book: Blog
