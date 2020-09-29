@@ -1,4 +1,4 @@
- [ITT](/Img/itt.jpg)
+ ![ITT](/Img/itt.jpg)
  
 ### Instituto Nacional de Mexico
 #### Instituto Tecnologico de Tijuana
