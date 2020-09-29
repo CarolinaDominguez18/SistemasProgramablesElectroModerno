@@ -17,7 +17,7 @@
 - [C0.2 Cuestionario I4.0](Blog/C0.2_Cuestionario_I4.0.md)
 - [C1.1 Cuestionario electronica basica y sus elementos](Blog/C1.1_Cuestionario_electrónica_básica_y_sus_elementos.md)
 - [C1.2 Circuito electrónico básico](Blog/C1.2_Circuito_electrónico_básico.md)
-- [C1.3 Circuito electrónico para uso con sensores y transductores](Blog/C1.3_Circuito_electrónico_para_uso_con_sensores_y_transductores)
+- [C1.3 Circuito electrónico para uso con sensores y transductores](Blog/C1.3_Circuito_electrónico_para_uso_con_sensores_y_transductores.md)
 
 :blue_book: Docs
 
