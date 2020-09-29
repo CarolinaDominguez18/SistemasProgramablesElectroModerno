@@ -30,3 +30,5 @@
 - [C1.x Calculo Circuito 2 Respuesta](Img/C1.x_CalculoCircuito-2_Respuesta.png)
 - [C1.x Calculo Circuito 3](Img/C1.x_CalculoCircuito-3.png)
 - [C1.x Calculo Circuito 3 Respuesta](Img/C1.x_CalculoCircuito-3_Respuesta.png)
+- [C1.x Sensores Transductores Circuito Vout Respuesta](Img/C1.x_SensoresTransductoresCircuitoVout.png)
+
