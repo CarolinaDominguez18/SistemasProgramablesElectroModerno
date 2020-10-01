@@ -35,4 +35,7 @@
 - [C1.x Calculo Circuito 3 Respuesta](Img/C1.x_CalculoCircuito-3_Respuesta.png)
 - [C1.x Sensores Transductores Circuito Vout Respuesta](Img/C1.x_SensoresTransductoresCircuitoVout.png)
 - [C1.x Sensores Transductores Circuito Vout Respuesta 2](Img/C1.x_SensoresTransductoresCircuitoVout2.png)
+- [C1.x Sensor FotoresistenciaLDR](Img/C1.x_Sensor_FotoresistenciaLDR.png)
+- [C1.x ircuito Sensor Fotoresistivo](Img/C1.x_CircuitoSensorFotoresistivo.png)
+- [Tinkercad Circuito](Img/tinkercad_circuito.png)
 
