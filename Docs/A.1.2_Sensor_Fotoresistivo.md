@@ -84,19 +84,19 @@ Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, u
 
 ***Comportamiento de voltaje del LDR***
 
-![Medicion de voltaje](/Img/grafico_Voltaje.jpg)
+![Medicion de voltaje](../Img/grafico_Voltaje.jpg)
 
 ***Comportamiento de Resistencia del LDR***
-![Medicion de Resistencia](/Img/grafico_Resistencia.jpg)
+![Medicion de Resistencia](../Img/grafico_Resistencia.jpg)
 
 ---
 
 1. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la actividad
-![Evidencia](/Img/meet.jpg)
-![Evidencia1](/Img/Evidencia1.png)
-![Evidencia2](/Img/Evidencia2.png)
-![Evidencia3](/Img/Evidencia3.png)
-![Evidencia4](/Img/Evidencia4.png)
+![Evidencia](../Img/meet.jpg)
+![Evidencia1](../Img/Evidencia1.png)
+![Evidencia2](../Img/Evidencia2.png)
+![Evidencia3](../Img/Evidencia3.png)
+![Evidencia4](../Img/Evidencia4.png)
 ---
 
 10. Incluya las conclusiones individuales y resultados observados durante el desarrollo de la actividad.
