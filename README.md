@@ -22,7 +22,7 @@
 :blue_book: Docs
 
 - [A1.1 Evaluación de conocimiento basicos de electrónica](Docs/A1.1_Evaluación_de_conocimiento_basicos_de_electrónica.md)
-- [A.1.2 Sensor Fotoresistivo.md](Docs/A.1.2_Sensor_Fotoresistivo.md)
+- [A.1.2 Sensor Fotoresistivo](Docs/A.1.2_Sensor_Fotoresistivo.md)
 
 :blue_book: Contenido Img
 
