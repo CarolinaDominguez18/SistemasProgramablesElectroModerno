@@ -22,6 +22,7 @@
 :blue_book: Docs
 
 - [A1.1 Evaluación de conocimiento basicos de electrónica](Docs/A1.1_Evaluación_de_conocimiento_basicos_de_electrónica.md)
+- [A.1.2 Sensor Fotoresistivo.md](Docs/A.1.2_Sensor_Fotoresistivo.md)
 
 :blue_book: Contenido Img
 
@@ -38,4 +39,12 @@
 - [C1.x Sensor FotoresistenciaLDR](Img/C1.x_Sensor_FotoresistenciaLDR.png)
 - [C1.x ircuito Sensor Fotoresistivo](Img/C1.x_CircuitoSensorFotoresistivo.png)
 - [Tinkercad Circuito](Img/tinkercad_circuito.png)
+- [Evidencia 1](Img/Evidencia1.png)
+- [Evidencia 2](Img/evidencia2.png)
+- [Evidencia 3](Img/Evidencia3.png)
+- [Evidencia 4](Img/evidencia4.png)
+- [Evidencia Meet](Img/Meet.jpg)
+- [Grafico Resistencia](Img/grafico_Resistencia.jpg)
+- [Grafico Voltaje](Img/grafico_Voltaje.jpg)
+
 
