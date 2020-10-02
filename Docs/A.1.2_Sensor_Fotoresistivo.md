@@ -91,7 +91,7 @@ Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, u
 
 ---
 
-1. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la actividad
+9. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la actividad
 ![Evidencia](../Img/Meet.jpg)
 ![Evidencia1](../Img/Evidencia1.png)
 ![Evidencia2](../Img/evidencia2.png)
