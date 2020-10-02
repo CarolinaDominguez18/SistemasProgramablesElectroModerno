@@ -44,7 +44,7 @@
 - [Evidencia 3](Img/Evidencia3.png)
 - [Evidencia 4](Img/evidencia4.png)
 - [Evidencia Meet](Img/Meet.jpg)
-- [Grafico Resistencia](Img/grafico_Resistencia.jpg)
-- [Grafico Voltaje](Img/grafico_Voltaje.jpg)
+- [Grafico Resistencia](Img/resistencia_voltaje.png)
+
 
 
