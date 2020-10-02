@@ -96,7 +96,7 @@ Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, u
 ![Evidencia1](../Img/Evidencia1.png)
 ![Evidencia2](../Img/evidencia2.png)
 ![Evidencia3](../Img/Evidencia3.png)
-![Evidencia4](../ImgeEvidencia4.png)
+![Evidencia4](../Img/evidencia4.png)
 
 ---
 
