@@ -44,7 +44,7 @@ Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, u
 
 2. Considerando que el elemento LDR es un sensor fotoresistivo es decir varia su resistencia en base a la cantidad de luz que incide sobre el, **Que observa en el grafico siguiente?** 
    
-![Respuesta](../Img/C1.x_Sensor_FotoresistenciaLDR.png)
+![Diagrama del comportamiento de un fotorresistor.](../Img/C1.x_Sensor_FotoresistenciaLDR.png)
 
 *Que si la luz solar es demasiado brillante, la resistencia sera menor, al contrario de que sea de noche, las resistencias se eleva, se nota mas la iluminacion durante la noche, que el dia. Porque la resistencia con luz, es de 1 k ohm, en cambio con oscuridad es de 10 k ohm*
 
@@ -52,13 +52,15 @@ Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, u
 
 3. Ensamble el circuito que se muestra utilizado el simulador que halla considerado, colocando la fotorresistencia en la posición LDR y resistencia de acuerdo con la imagen del esquemático:
 
-![Respuesta](../Img/C1.x_CircuitoSensorFotoresistivo.png)
+![Diagrama de un circuito reductor de voltaje con un fotorresistor.](../Img/C1.x_CircuitoSensorFotoresistivo.png)
 
 ---
 
 4. coloque la imagen finalmente obtenida del circuito ensamblado dentro de su simulador.
 
 ![Circuito construido en el simulador Tinkercad.](../Img/tinkercad_circuito.png)
+
+	**Nota:** La tarjeta Arduino es utilizada únicamente como fuente de poder.
 
 ---
 
@@ -67,6 +69,11 @@ Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, u
 ---
 
 6. Calcule el **valor de voltaje Vout teórico** para cada una de las condiciones antes indicadas asi como el valor de voltaje Vout medido  y registre en la tabla correspondiente.
+
+	- **Ausencia de luz:** Vout = (R2 * Vin) / (R1 + R2) = (1,000 * 5) / (180,000 + 1,000) = 5,000 / 181,000 = **0.0276 volts**
+	- **Luz ambiental:** Vout = (R2 * Vin) / (R1 + R2) = (1,000 * 5) / (912 + 1,000) = 5,000 / 1,912 = **2.615 volts**
+	- **Luz intensa:** Vout  (R2 * Vin) / (R1 + R2) = (1,000 * 5) / (506 + 1,000) = 5,000 / 1,506 = **3.32 volts**
+
 
 ---
 
@@ -84,18 +91,20 @@ Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, u
 
 ***Comportamiento de voltaje del LDR***
 
-![Medicion de voltaje](../Img/grafico_Voltaje.jpg)
+![Resistencia vs. Voltaje](../Img/resistencia_voltaje.png)
 
-***Comportamiento de Resistencia del LDR***
-![Medicion de Resistencia](../Img/grafico_Resistencia.jpg)
 
 ---
 
-9. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la actividad
+1. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la actividad
 ![Evidencia](../Img/Meet.jpg)
+
 ![Evidencia1](../Img/Evidencia1.png)
+
 ![Evidencia2](../Img/evidencia2.png)
+
 ![Evidencia3](../Img/Evidencia3.png)
+
 ![Evidencia4](../Img/evidencia4.png)
 
 ---
@@ -104,7 +113,8 @@ Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, u
 
 **Carolina Dominguez Cruz**
 
-Le tuve que pedir ayuda a mi compañero, porque ni me acordaba del como hacer un simulador de un circuito. Tuvimos que calcular el valor del voltaje, asi que nos reunimos por meet para realizarlos. Al describir la pregunta 2 me dio cuenta que los sensores LDR se aprecian mas durante la noche, la oscuridad. Porque la resistencia es 10 veces mayor que con luz
+Le tuve que pedir ayuda a mi compañero, porque ni me acordaba del como hacer un simulador de un circuito. Tuvimos que calcular el valor del voltaje, asi que nos reunimos por meet para realizarlos. Al describir la pregunta 2 me dio cuenta que los sensores LDR se aprecian mas durante la noche, la oscuridad. Porque la resistencia es 10 veces mayor que con luz.
+Como dimos un voltaje de 5 voltios la fotoresistencia hizo un cambio nagativo, lo cual fue disminuyendo poco a poco.
 
 **Cesar Soto Garcia**
 
@@ -129,4 +139,10 @@ Una de las cosas más interesantes aprendidas en esta actividad es el comportami
 
 [:arrow_left: Volver al Índice](../README.md)
 
-[:bookmark_tabs: Repositorio en GitHub](https://github.com/CarolinaDominguez18/SistemasProgramables)
+[:bookmark_tabs: Repositorio en GitHub de Carolina Dominguez Cruz](https://github.com/CarolinaDominguez18/SistemasProgramables)
+
+[:bookmark_tabs: Repositorio en GitHub de Cesar Isaac Soto Garcia](https://github.com/cesarsoto2/CesarSotoRepost)
+
+
+[:bookmark_tabs: Repositorio en GitHub de Luis Alejandro Sanchez Gallegos](https://github.com/alex-gallegos-tec/sistemas-programables)
+
