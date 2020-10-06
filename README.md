@@ -44,7 +44,6 @@
 - [Evidencia 3](Img/Evidencia3.png)
 - [Evidencia 4](Img/evidencia4.png)
 - [Evidencia Meet](Img/Meet.jpg)
-- [Grafico Resistencia](Img/resistencia_voltaje.png)
-
-
+- [Grafico Resistencia](Img/resistencia_votaje.png)
+-[Circuito Acondicionador AmOP](Img/C1.x_CircuitoAcondicionadorAmOP.png)
 
