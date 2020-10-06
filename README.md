@@ -47,3 +47,4 @@
 - [Evidencia Meet](Img/Meet.jpg)
 - [Grafico Resistencia](Img/resistencia_votaje.png)
 - [Circuito Acondicionador AmOP](Img/C1.x_CircuitoAcondicionadorAmOP.png)
+- [Resistencias comerciales](Img/ResistenciasComerciales.png)
