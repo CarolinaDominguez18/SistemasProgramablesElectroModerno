@@ -21,10 +21,12 @@
 - [C1.4 Acondicionador de señal AmOP](Blog/C1.4_Acondicionador_de_senal_AmOP.md
  -[C1.5 Tipos de sensores](Blog/ C1.5_Tipos_de_sensores.md)
 
+
 :blue_book: Docs
 
 - [A1.1 Evaluación de conocimiento basicos de electrónica](Docs/A1.1_Evaluación_de_conocimiento_basicos_de_electrónica.md)
 - [A.1.2 Sensor Fotoresistivo](Docs/A.1.2_Sensor_Fotoresistivo.md)
+
 
 :blue_book: Contenido Img
 
