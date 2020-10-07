@@ -19,6 +19,7 @@
 - [C1.2 Circuito electrónico básico](Blog/C1.2_Circuito_electrónico_básico.md)
 - [C1.3 Circuito electrónico para uso con sensores y transductores](Blog/C1.3_Circuito_electrónico_para_uso_con_sensores_y_transductores.md)
 - [C1.4 Acondicionador de señal AmOP](Blog/C1.4_Acondicionador_de_senal_AmOP.md)
+-  [C1.5 Tipos de sensores](Blog/ C1.5_Tipos_de_sensores.md)
 
 :blue_book: Docs
 
