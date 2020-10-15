@@ -33,6 +33,7 @@
 :blue_book: Contenido Img
 
 - [Diagrama Pregunta 1.5 del C0.2 Cuestionario](Img/Pregunta15.drawio.png)
+- [Diagrama Flujo](Img/Flujo.drawio.png)
 - [Simbolos Electronicos del C1.1 Cuestionario](Img/C1.x_SimbolosElectronicos.png)
 - [C1.x Calculo Circuito 1](Img/C1.x_CalculoCircuito-1.png)
 - [C1.x Calculo Circuito 1 Respuesta](Img/C1.x_CalculoCircuito_Respuesta.png)
