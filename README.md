@@ -20,7 +20,7 @@
 - [C1.3 Circuito electrónico para uso con sensores y transductores](Blog/C1.3_Circuito_electrónico_para_uso_con_sensores_y_transductores.md)
 - [C1.4 Acondicionador de señal AmOP](Blog/C1.4_Acondicionador_de_senal_AmOP.md)
 - [C1.5 Tipo de Sensores](Blog/C1.5_Tipos_de_sensores.md)
-
+- [C2.1 Actuadores Neumaticos, Hidraulicos y Electricos](Blog/C2.1_ActuadoresNeumaticosHidraulicos.md)
 
 
 :blue_book: Docs
@@ -55,8 +55,8 @@
 - [Circuito Acondicionador AmOP](Img/C1.x_CircuitoAcondicionadorAmOP.png)
 - [Resistencias comerciales](Img/ResistenciasComerciales.png)
 - [A1.3 Historial de Drive](Img/A1.3_drive_historial.png)
-- [A1.3 Slack 1](Img/A1.3_slack_1.png)
-- [A1.3 Slack 2](Img/A1.3_slack_2.png)
+- [A1.3 Slack1](Img/A1.3_slack_1.png)
+- [A1.3 Slack2](Img/A1.3_slack_2.png)
 - [Circuito LM 35](Img/C1.x_CircuitoLM35_Etapa1.png)
 - [Circuito LM 41](Img/C1.x_CircuitoLM741_Etapa2.png)
 - [Circuito en etapa 1](Img/A1.4_etapa1_circuito.png)
@@ -65,3 +65,4 @@
 - [Conversación en Slack 2](Img/A1.4_slack_2.png)
 - [Conversación en Slack 3](Img/A1.4_slack_3.png)
 - [Conversación en Slack 4](Img/A1.4_slack_4.png)
+- [Cuadro Sinoptico](/Img/C2.1_Cuadro_sinóptico.png)
