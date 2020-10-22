@@ -75,4 +75,4 @@
 - [Conversación en Slack 4](Img/A1.4_slack_4.png)
 - [Cuadro Sinoptico](/Img/C2.1_Cuadro_sinóptico.png)
 - [Clasificacion de motores electricos](/Img/C2.2_motores_eléctricos.png)
-- [Circuito Temporizador](/img/C2.x_CircuitoTemporizadorNE555.png)
+- [Circuito Temporizador](/Img/C2.x_CircuitoTemporizadorNE555.png)
