@@ -1,4 +1,4 @@
- ![ITT](/Img/itt.jpg)
+![ITT](/Img/itt.jpg)
  
 ### Instituto Nacional de Mexico
 #### Instituto Tecnologico de Tijuana
@@ -36,6 +36,11 @@
 - [A.1.2 Sensor Fotoresistivo](Docs/A.1.2_Sensor_Fotoresistivo.md)
 - [A1.3 Tipos de Sensores Comerciales](Docs/A1.3_Tipos_Sensores_Comerciales.md)
 - [A1.4 Sensor de Temperatura TMP 36](Docs/A1.4_Sensor_Temperatura_TMP36.md)
+
+:green_book: **DOCS UNIDAD 2**
+
+- [Circuito Temporizador Actuador](Docs/A2.2_Circuito_temporizador_actuador)
+
   
 ---
 :orange_book: **CONTENIDO IMG**
@@ -76,3 +81,6 @@
 - [Cuadro Sinoptico](/Img/C2.1_Cuadro_sinóptico.png)
 - [Clasificacion de motores electricos](/Img/C2.2_motores_eléctricos.png)
 - [Circuito Temporizador](/Img/C2.x_CircuitoTemporizadorNE555.png)
+- [Conversación en Slack](/Img/A2.1_slack_1.png)
+- [Conversación en Messenger](/Img/A2.1_messenger_1.png)
+- [Historial en Google Docs](/Img/A2.1_drive_historial.png)
